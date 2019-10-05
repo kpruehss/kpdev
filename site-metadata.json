@@ -3,9 +3,9 @@
   "layout_style": "overflow",
   "palette": "green",
   "header": {
-    "title": "KP Dev",
+    "title": "Karsten Pruehss",
     "tagline": "Developing Journey",
-    "profile_img": "images/avatar.png",
+    "profile_img": "/images/profile4.jpg",
     "bg": "dark",
     "has_nav": true,
     "has_social": true
