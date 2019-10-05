@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: This is a short page about me and my work.
+subtitle: Get to know me better
 img_path: ''
 menus:
   main:
