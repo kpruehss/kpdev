@@ -1,9 +1,9 @@
 {
   "title": "KP Dev",
   "layout_style": "overflow",
-  "palette": "violet",
+  "palette": "green",
   "header": {
-    "title": "Stackbit Fresh",
+    "title": "KP Dev",
     "tagline": "Developing Journey",
     "profile_img": "images/avatar.png",
     "bg": "dark",
